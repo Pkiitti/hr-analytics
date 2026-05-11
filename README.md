@@ -13,7 +13,7 @@ Trong quá trình phân tích, các insight rút ra được là:
 - Hầu hết ở các phòng ban vấn đề thu nhập là lý do chủ yếu khiến người ta nghỉ việc, có đến 18/60 người cho rằng như vậy
 
 ## 3. Tính Năng Chính Của Dashboard
-- Theo Dõi KPI Tổng Quan: Hiển thị nhanh Tổng số nhân viên ddang còn làm, Số lượng tuyển mới, Số lượng nghỉ việc và Tỷ lệ nghỉ việc và lương trung bình.
+- Theo Dõi KPI Tổng Quan: Hiển thị nhanh Tổng số nhân viên đang còn làm, Số lượng tuyển mới, Số lượng nghỉ việc và Tỷ lệ nghỉ việc và lương trung bình.
 - Phân Tích Theo Thời Gian: Các biểu đồ xu hướng theo dõi quá trình tuyển dụng và nghỉ việc qua từng năm, giúp phát hiện các giai đoạn biến động mạnh.
 - Phân Tích Nguyên Nhân: Vấn đề thu nhập, cơ hội nghề nghiệp, áp lực là top 3 lý do khiến nhân viên nghỉ việc tại công ty.
 - Phân Bổ Theo Phòng Ban: [Đánh giá chi tiết tình hình nhân sự tại Sản xuất, Kho vận, Kiểm định chất lượng, Bảo trì và Hành chính]. Phòng ban Sản xuất với số tuyển dụng cao nhất
