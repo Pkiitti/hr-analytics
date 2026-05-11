@@ -1,0 +1,301 @@
+EmployeeID,EmployeeName,Gender,Department,JobTitle
+E0002,Phan Thị Vinh,Nam,Sản xuất,Giám sát ca
+E0091,Phan Văn Trang,Nữ,Sản xuất,Giám sát ca
+E0018,Đỗ Thanh Vinh,Nam,Sản xuất,Giám sát ca
+E0134,Huỳnh Văn Anh,Nữ,Kho vận,Nhân viên kho
+E0019,Võ Thị Phương,Nữ,Kiểm định chất lượng,Chuyên viên QC
+E0161,Đặng Đức My,Nữ,Sản xuất,Công nhân
+E0032,Bùi Hoàng Thắng,Nam,Kiểm định chất lượng,Chuyên viên QC
+E0227,Lê Ngọc Dũng,Nam,Hành chính,Nhân sự
+E0191,Nguyễn Hoàng Thắng,Nam,Sản xuất,Giám sát ca
+E0056,Hoàng Minh Anh,Nữ,Kiểm định chất lượng,Chuyên viên QC
+E0040,Đỗ Đức Cường,Nam,Sản xuất,Tổ trưởng chuyền
+E0089,Nguyễn Hoàng Vy,Nữ,Bảo trì,Kỹ thuật viên
+E0221,Hoàng Hữu My,Nữ,Kiểm định chất lượng,Nhân viên QC
+E0174,Vũ Ngọc Sơn,Nam,Sản xuất,Tổ trưởng chuyền
+E0291,Hồ Minh Ngọc,Nữ,Kiểm định chất lượng,Chuyên viên QC
+E0125,Huỳnh Ngọc Bình,Nam,Kho vận,Nhân viên kho
+E0271,Phan Thanh Cường,Nam,Sản xuất,Tổ trưởng chuyền
+E0090,Lê Minh Khánh,Nam,Kiểm định chất lượng,Nhân viên QC
+E0189,Phan Đức Hải,Nam,Sản xuất,Công nhân
+E0094,Phan Đức Vinh,Nam,Sản xuất,Công nhân
+E0158,Phạm Hữu Anh,Nữ,Sản xuất,Công nhân
+E0208,Đặng Thị My,Nữ,Bảo trì,Thợ máy
+E0115,Vũ Văn Mai,Nữ,Sản xuất,Công nhân
+E0012,Võ Hoàng Khánh,Nữ,Kiểm định chất lượng,Chuyên viên QC
+E0175,Vũ Thị Quang,Nam,Sản xuất,Giám sát ca
+E0020,Phan Đức Minh,Nam,Bảo trì,Thợ máy
+E0173,Lê Hữu Hương,Nữ,Kiểm định chất lượng,Chuyên viên QC
+E0254,Nguyễn Minh Nam,Nam,Kho vận,Lái xe nâng
+E0149,Phạm Văn Cường,Nam,Kho vận,Lái xe nâng
+E0052,Nguyễn Minh Thắng,Nam,Bảo trì,Kỹ thuật viên
+E0237,Võ Đức Dũng,Nam,Kho vận,Nhân viên kho
+E0088,Bùi Minh Như,Nữ,Bảo trì,Kỹ thuật viên
+E0102,Bùi Minh Nam,Nam,Hành chính,Kế toán
+E0256,Trần Thị Giang,Nữ,Sản xuất,Công nhân
+E0248,Hồ Văn Hải,Nam,Hành chính,Kế toán
+E0232,Hoàng Văn Dũng,Nam,Kho vận,Lái xe nâng
+E0113,Vũ Thị Thắng,Nam,Sản xuất,Công nhân
+E0120,Lê Minh Phúc,Nam,Kiểm định chất lượng,Chuyên viên QC
+E0159,Hoàng Minh Dũng,Nam,Sản xuất,Giám sát ca
+E0195,Trần Thanh Hạnh,Nữ,Kiểm định chất lượng,Nhân viên QC
+E0100,Bùi Hoàng Thắng,Nam,Kho vận,Nhân viên kho
+E0053,Đỗ Minh Anh,Nam,Kho vận,Nhân viên kho
+E0126,Đỗ Văn Khánh,Nữ,Sản xuất,Giám sát ca
+E0060,Phan Thị Thắng,Nam,Sản xuất,Tổ trưởng chuyền
+E0179,Hoàng Minh Minh,Nam,Sản xuất,Công nhân
+E0087,Hồ Thị Thảo,Nữ,Bảo trì,Kỹ thuật viên
+E0051,Phan Đức Vinh,Nam,Sản xuất,Giám sát ca
+E0038,Trần Đức Khánh,Nam,Sản xuất,Giám sát ca
+E0099,Đỗ Hữu Phương,Nữ,Sản xuất,Công nhân
+E0103,Nguyễn Hữu Linh,Nữ,Sản xuất,Công nhân
+E0005,Nguyễn Hoàng Quang,Nam,Bảo trì,Kỹ thuật viên
+E0200,Nguyễn Văn Mai,Nữ,Hành chính,Nhân sự
+E0242,Hoàng Hữu Hùng,Nam,Sản xuất,Công nhân
+E0219,Trần Ngọc Mai,Nữ,Kiểm định chất lượng,Chuyên viên QC
+E0136,Đỗ Văn Vinh,Nam,Sản xuất,Tổ trưởng chuyền
+E0194,Đỗ Minh Chi,Nữ,Bảo trì,Kỹ thuật viên
+E0267,Đặng Văn Giang,Nữ,Sản xuất,Công nhân
+E0097,Trần Thị Thảo,Nữ,Bảo trì,Kỹ thuật viên
+E0146,Đặng Văn Đạt,Nam,Kiểm định chất lượng,Chuyên viên QC
+E0166,Đặng Thị Thảo,Nữ,Sản xuất,Giám sát ca
+E0128,Đỗ Đức Sơn,Nam,Kiểm định chất lượng,Nhân viên QC
+E0196,Hồ Văn Nam,Nam,Bảo trì,Kỹ thuật viên
+E0117,Vũ Hoàng Lan,Nữ,Sản xuất,Giám sát ca
+E0155,Hồ Thị Giang,Nữ,Bảo trì,Kỹ thuật viên
+E0213,Hồ Đức Nam,Nam,Sản xuất,Tổ trưởng chuyền
+E0295,Vũ Văn Phúc,Nam,Sản xuất,Giám sát ca
+E0212,Phan Minh Bình,Nam,Sản xuất,Tổ trưởng chuyền
+E0106,Võ Ngọc Đạt,Nam,Sản xuất,Tổ trưởng chuyền
+E0210,Bùi Hoàng Hải,Nam,Kho vận,Nhân viên kho
+E0132,Võ Ngọc Hùng,Nam,Sản xuất,Công nhân
+E0164,Đỗ Văn Phúc,Nam,Bảo trì,Kỹ thuật viên
+E0009,Nguyễn Thị Phúc,Nam,Kiểm định chất lượng,Chuyên viên QC
+E0197,Huỳnh Hoàng Sơn,Nam,Sản xuất,Tổ trưởng chuyền
+E0292,Đặng Hữu My,Nữ,Sản xuất,Tổ trưởng chuyền
+E0003,Huỳnh Văn Vinh,Nam,Sản xuất,Công nhân
+E0186,Võ Đức Như,Nữ,Kho vận,Lái xe nâng
+E0299,Đặng Ngọc Sơn,Nam,Sản xuất,Công nhân
+E0176,Bùi Đức Long,Nam,Kiểm định chất lượng,Nhân viên QC
+E0119,Phạm Đức Minh,Nam,Bảo trì,Kỹ thuật viên
+E0289,Phan Minh Vinh,Nam,Sản xuất,Giám sát ca
+E0214,Phạm Thanh Minh,Nam,Kho vận,Lái xe nâng
+E0036,Đỗ Ngọc Khánh,Nam,Sản xuất,Công nhân
+E0044,Lê Thị Hải,Nam,Kiểm định chất lượng,Nhân viên QC
+E0042,Hoàng Ngọc Hùng,Nam,Sản xuất,Công nhân
+E0015,Huỳnh Minh Trang,Nữ,Kiểm định chất lượng,Nhân viên QC
+E0269,Huỳnh Minh Linh,Nữ,Kiểm định chất lượng,Nhân viên QC
+E0215,Bùi Đức Thắng,Nam,Bảo trì,Kỹ thuật viên
+E0261,Võ Hoàng Dũng,Nam,Bảo trì,Kỹ thuật viên
+E0279,Hoàng Hoàng Nam,Nam,Sản xuất,Công nhân
+E0257,Hoàng Minh Hạnh,Nữ,Sản xuất,Tổ trưởng chuyền
+E0031,Huỳnh Đức Hải,Nam,Sản xuất,Tổ trưởng chuyền
+E0048,Hoàng Minh Nam,Nam,Kho vận,Nhân viên kho
+E0236,Đỗ Thị Quang,Nam,Sản xuất,Giám sát ca
+E0285,Đặng Văn Hạnh,Nữ,Sản xuất,Giám sát ca
+E0122,Đỗ Minh Giang,Nữ,Kho vận,Lái xe nâng
+E0188,Bùi Văn Hương,Nữ,Sản xuất,Giám sát ca
+E0252,Phạm Minh Long,Nam,Sản xuất,Công nhân
+E0153,Hoàng Hoàng Nam,Nam,Sản xuất,Công nhân
+E0171,Huỳnh Đức Đạt,Nam,Hành chính,Nhân sự
+E0288,Hồ Văn Trang,Nữ,Hành chính,Kế toán
+E0037,Phạm Hoàng Trang,Nữ,Sản xuất,Giám sát ca
+E0226,Bùi Hoàng Quang,Nam,Sản xuất,Công nhân
+E0190,Bùi Thanh Sơn,Nam,Kho vận,Lái xe nâng
+E0270,Hồ Hữu Dung,Nữ,Kiểm định chất lượng,Nhân viên QC
+E0070,Phan Minh Phúc,Nam,Kho vận,Lái xe nâng
+E0280,Võ Hữu Dũng,Nam,Sản xuất,Tổ trưởng chuyền
+E0241,Võ Ngọc Hùng,Nam,Sản xuất,Công nhân
+E0077,Võ Thị Long,Nam,Bảo trì,Kỹ thuật viên
+E0263,Trần Ngọc Khánh,Nam,Sản xuất,Tổ trưởng chuyền
+E0205,Bùi Thanh Như,Nữ,Sản xuất,Giám sát ca
+E0199,Bùi Ngọc Hải,Nam,Sản xuất,Công nhân
+E0017,Đỗ Thị Quang,Nam,Sản xuất,Tổ trưởng chuyền
+E0059,Phan Thanh Chi,Nữ,Sản xuất,Giám sát ca
+E0084,Bùi Đức Nam,Nam,Sản xuất,Công nhân
+E0218,Lê Minh Chi,Nữ,Kho vận,Nhân viên kho
+E0028,Đỗ Thị Khánh,Nữ,Sản xuất,Công nhân
+E0268,Hồ Đức Ngọc,Nữ,Sản xuất,Tổ trưởng chuyền
+E0151,Vũ Minh Hùng,Nam,Sản xuất,Công nhân
+E0163,Phan Văn Lan,Nữ,Sản xuất,Công nhân
+E0080,Phan Minh Thắng,Nam,Hành chính,Kế toán
+E0029,Đỗ Thị Thảo,Nữ,Kiểm định chất lượng,Nhân viên QC
+E0170,Trần Hữu Hải,Nam,Sản xuất,Công nhân
+E0222,Vũ Văn Như,Nữ,Sản xuất,Tổ trưởng chuyền
+E0112,Nguyễn Ngọc Dung,Nữ,Hành chính,Kế toán
+E0066,Phạm Đức Dung,Nữ,Bảo trì,Thợ máy
+E0165,Phan Hoàng Bình,Nam,Kiểm định chất lượng,Chuyên viên QC
+E0013,Huỳnh Thị Minh,Nam,Bảo trì,Thợ máy
+E0144,Vũ Văn Phúc,Nam,Sản xuất,Giám sát ca
+E0074,Phạm Ngọc Anh,Nữ,Sản xuất,Công nhân
+E0064,Nguyễn Thị Anh,Nam,Sản xuất,Công nhân
+E0105,Huỳnh Đức Vinh,Nam,Sản xuất,Tổ trưởng chuyền
+E0277,Phan Văn Như,Nữ,Sản xuất,Giám sát ca
+E0075,Hồ Thị Cường,Nam,Sản xuất,Giám sát ca
+E0141,Phan Thị Mai,Nữ,Sản xuất,Giám sát ca
+E0223,Bùi Minh Minh,Nam,Sản xuất,Giám sát ca
+E0231,Đỗ Thanh Vinh,Nam,Sản xuất,Công nhân
+E0160,Phan Ngọc Chi,Nữ,Sản xuất,Tổ trưởng chuyền
+E0228,Vũ Minh Phương,Nữ,Sản xuất,Công nhân
+E0065,Phan Minh Hạnh,Nữ,Sản xuất,Giám sát ca
+E0127,Huỳnh Thanh Ly,Nữ,Sản xuất,Công nhân
+E0026,Bùi Thị Vinh,Nam,Sản xuất,Tổ trưởng chuyền
+E0192,Phạm Thanh Bình,Nam,Sản xuất,Tổ trưởng chuyền
+E0286,Phạm Ngọc Ly,Nữ,Sản xuất,Công nhân
+E0135,Hoàng Hoàng Hải,Nam,Sản xuất,Giám sát ca
+E0240,Trần Minh Dũng,Nam,Hành chính,Nhân sự
+E0235,Phạm Thanh Hạnh,Nữ,Sản xuất,Giám sát ca
+E0118,Trần Ngọc Mai,Nữ,Bảo trì,Kỹ thuật viên
+E0211,Huỳnh Hữu My,Nữ,Sản xuất,Tổ trưởng chuyền
+E0207,Bùi Văn Vinh,Nam,Bảo trì,Thợ máy
+E0244,Đặng Hữu Khánh,Nữ,Sản xuất,Công nhân
+E0030,Trần Minh Cường,Nam,Bảo trì,Thợ máy
+E0121,Bùi Thị Tuấn,Nam,Kiểm định chất lượng,Chuyên viên QC
+E0071,Phạm Minh Vinh,Nam,Sản xuất,Công nhân
+E0183,Đỗ Minh Khánh,Nữ,Bảo trì,Thợ máy
+E0131,Huỳnh Hữu Ly,Nữ,Sản xuất,Công nhân
+E0172,Đặng Hữu Vinh,Nam,Sản xuất,Công nhân
+E0167,Lê Ngọc Hải,Nam,Kiểm định chất lượng,Chuyên viên QC
+E0184,Phan Hoàng Ngọc,Nữ,Sản xuất,Tổ trưởng chuyền
+E0216,Nguyễn Văn Tuấn,Nam,Kiểm định chất lượng,Chuyên viên QC
+E0290,Trần Thanh Sơn,Nam,Bảo trì,Kỹ thuật viên
+E0108,Hoàng Thanh Linh,Nữ,Bảo trì,Kỹ thuật viên
+E0107,Vũ Hoàng Lan,Nữ,Sản xuất,Tổ trưởng chuyền
+E0276,Hồ Hoàng Bình,Nam,Kiểm định chất lượng,Nhân viên QC
+E0206,Huỳnh Đức Khánh,Nam,Sản xuất,Giám sát ca
+E0095,Hoàng Hữu Khánh,Nam,Sản xuất,Công nhân
+E0045,Lê Văn Minh,Nam,Bảo trì,Thợ máy
+E0278,Lê Đức Linh,Nữ,Bảo trì,Thợ máy
+E0004,Hoàng Hoàng Minh,Nam,Kho vận,Lái xe nâng
+E0156,Lê Đức Hạnh,Nữ,Sản xuất,Giám sát ca
+E0096,Vũ Đức Dũng,Nam,Kho vận,Lái xe nâng
+E0058,Đặng Minh Như,Nữ,Sản xuất,Công nhân
+E0114,Võ Hoàng Thảo,Nữ,Sản xuất,Giám sát ca
+E0272,Võ Thị Vy,Nữ,Bảo trì,Thợ máy
+E0055,Nguyễn Minh Dung,Nữ,Kiểm định chất lượng,Nhân viên QC
+E0035,Nguyễn Thị Bình,Nam,Sản xuất,Tổ trưởng chuyền
+E0081,Hồ Thị Cường,Nam,Sản xuất,Tổ trưởng chuyền
+E0110,Đặng Hoàng Phúc,Nam,Sản xuất,Giám sát ca
+E0085,Bùi Minh Thắng,Nam,Kiểm định chất lượng,Nhân viên QC
+E0266,Đỗ Văn Nam,Nam,Sản xuất,Công nhân
+E0239,Huỳnh Thị Nam,Nam,Kho vận,Nhân viên kho
+E0193,Lê Thị Anh,Nam,Kiểm định chất lượng,Nhân viên QC
+E0238,Lê Hữu Vy,Nữ,Kho vận,Lái xe nâng
+E0025,Bùi Văn Long,Nam,Sản xuất,Công nhân
+E0255,Phạm Đức Long,Nam,Kho vận,Nhân viên kho
+E0083,Nguyễn Hữu Quang,Nam,Kiểm định chất lượng,Nhân viên QC
+E0229,Bùi Thanh Dung,Nữ,Sản xuất,Giám sát ca
+E0260,Trần Thị Ly,Nữ,Hành chính,Nhân sự
+E0284,Nguyễn Thanh Tuấn,Nam,Sản xuất,Công nhân
+E0130,Lê Hữu Anh,Nam,Hành chính,Kế toán
+E0008,Trần Minh Dung,Nữ,Sản xuất,Tổ trưởng chuyền
+E0062,Đặng Ngọc My,Nữ,Sản xuất,Công nhân
+E0014,Hồ Hoàng Long,Nam,Kiểm định chất lượng,Nhân viên QC
+E0054,Đặng Thị Hùng,Nam,Kiểm định chất lượng,Nhân viên QC
+E0298,Bùi Ngọc Hùng,Nam,Sản xuất,Giám sát ca
+E0209,Đặng Hoàng Minh,Nam,Kiểm định chất lượng,Chuyên viên QC
+E0082,Phan Đức Thảo,Nữ,Sản xuất,Công nhân
+E0296,Huỳnh Đức Vinh,Nam,Sản xuất,Công nhân
+E0039,Nguyễn Đức Phúc,Nam,Sản xuất,Giám sát ca
+E0283,Vũ Văn Lan,Nữ,Sản xuất,Giám sát ca
+E0043,Phan Ngọc Tuấn,Nam,Kiểm định chất lượng,Nhân viên QC
+E0142,Huỳnh Ngọc Tuấn,Nam,Kiểm định chất lượng,Chuyên viên QC
+E0006,Vũ Minh Anh,Nữ,Sản xuất,Tổ trưởng chuyền
+E0137,Trần Minh Chi,Nữ,Hành chính,Kế toán
+E0124,Đặng Văn Long,Nam,Sản xuất,Tổ trưởng chuyền
+E0162,Bùi Thanh Nam,Nam,Kho vận,Nhân viên kho
+E0109,Đặng Thị Dung,Nữ,Kho vận,Nhân viên kho
+E0143,Phan Hoàng Ly,Nữ,Bảo trì,Thợ máy
+E0234,Huỳnh Văn Ngọc,Nữ,Hành chính,Nhân sự
+E0116,Lê Đức Linh,Nữ,Kiểm định chất lượng,Chuyên viên QC
+E0245,Lê Thị Sơn,Nam,Sản xuất,Giám sát ca
+E0177,Hồ Đức Trang,Nữ,Sản xuất,Tổ trưởng chuyền
+E0150,Trần Hoàng Dũng,Nam,Sản xuất,Tổ trưởng chuyền
+E0250,Vũ Thanh Vy,Nữ,Kiểm định chất lượng,Nhân viên QC
+E0264,Hồ Văn Dũng,Nam,Kiểm định chất lượng,Chuyên viên QC
+E0293,Hồ Thanh Đạt,Nam,Sản xuất,Giám sát ca
+E0294,Lê Văn Nam,Nam,Sản xuất,Tổ trưởng chuyền
+E0225,Phan Hoàng Dung,Nữ,Bảo trì,Thợ máy
+E0076,Phạm Văn Minh,Nam,Sản xuất,Giám sát ca
+E0154,Lê Đức Hương,Nữ,Sản xuất,Công nhân
+E0230,Đặng Hữu Anh,Nữ,Kiểm định chất lượng,Nhân viên QC
+E0016,Huỳnh Thị Quang,Nam,Sản xuất,Tổ trưởng chuyền
+E0203,Nguyễn Thanh Quang,Nam,Bảo trì,Thợ máy
+E0023,Bùi Thị Lan,Nữ,Sản xuất,Giám sát ca
+E0022,Bùi Hoàng Long,Nam,Bảo trì,Kỹ thuật viên
+E0202,Lê Văn Hương,Nữ,Kho vận,Nhân viên kho
+E0093,Đỗ Hoàng Giang,Nữ,Sản xuất,Công nhân
+E0224,Trần Văn Minh,Nam,Kiểm định chất lượng,Chuyên viên QC
+E0204,Bùi Đức Minh,Nam,Hành chính,Kế toán
+E0273,Đặng Minh My,Nữ,Kiểm định chất lượng,Chuyên viên QC
+E0262,Vũ Hữu Khánh,Nam,Sản xuất,Giám sát ca
+E0249,Đỗ Thanh Long,Nam,Sản xuất,Giám sát ca
+E0007,Phạm Thanh Đạt,Nam,Kiểm định chất lượng,Chuyên viên QC
+E0168,Bùi Văn Thắng,Nam,Sản xuất,Giám sát ca
+E0098,Lê Văn Linh,Nữ,Sản xuất,Giám sát ca
+E0275,Bùi Ngọc Phúc,Nam,Sản xuất,Công nhân
+E0139,Đỗ Đức Minh,Nam,Sản xuất,Công nhân
+E0157,Đặng Hữu Minh,Nam,Sản xuất,Giám sát ca
+E0148,Vũ Đức Anh,Nam,Sản xuất,Giám sát ca
+E0061,Đặng Văn Cường,Nam,Sản xuất,Tổ trưởng chuyền
+E0220,Đặng Minh Hương,Nữ,Sản xuất,Giám sát ca
+E0046,Võ Minh Mai,Nữ,Bảo trì,Kỹ thuật viên
+E0274,Vũ Đức Thắng,Nam,Kho vận,Nhân viên kho
+E0198,Hồ Minh Minh,Nam,Sản xuất,Công nhân
+E0145,Huỳnh Minh Vinh,Nam,Kiểm định chất lượng,Nhân viên QC
+E0104,Bùi Thị Quang,Nam,Sản xuất,Công nhân
+E0181,Đỗ Ngọc Anh,Nam,Bảo trì,Kỹ thuật viên
+E0101,Võ Văn Minh,Nam,Sản xuất,Tổ trưởng chuyền
+E0063,Võ Minh Anh,Nam,Hành chính,Nhân sự
+E0123,Bùi Thanh Trang,Nữ,Kho vận,Lái xe nâng
+E0001,Vũ Thị Thắng,Nam,Bảo trì,Thợ máy
+E0027,Phạm Hữu Như,Nữ,Sản xuất,Giám sát ca
+E0251,Nguyễn Minh My,Nữ,Hành chính,Nhân sự
+E0243,Phạm Minh Dũng,Nam,Sản xuất,Tổ trưởng chuyền
+E0047,Hoàng Văn Vinh,Nam,Sản xuất,Giám sát ca
+E0281,Đặng Thanh Phương,Nữ,Bảo trì,Kỹ thuật viên
+E0253,Đặng Văn Bình,Nam,Bảo trì,Kỹ thuật viên
+E0152,Võ Ngọc Mai,Nữ,Sản xuất,Giám sát ca
+E0258,Hồ Thị Như,Nữ,Kiểm định chất lượng,Nhân viên QC
+E0233,Vũ Hoàng Quỳnh,Nữ,Sản xuất,Tổ trưởng chuyền
+E0138,Đỗ Văn Linh,Nữ,Hành chính,Nhân sự
+E0185,Bùi Đức Giang,Nữ,Sản xuất,Giám sát ca
+E0201,Vũ Hoàng Vinh,Nam,Bảo trì,Kỹ thuật viên
+E0079,Lê Hữu My,Nữ,Sản xuất,Công nhân
+E0129,Đỗ Văn Khánh,Nữ,Sản xuất,Công nhân
+E0247,Hồ Đức Bình,Nam,Sản xuất,Giám sát ca
+E0187,Trần Đức Trang,Nữ,Kiểm định chất lượng,Chuyên viên QC
+E0033,Đỗ Thanh Thảo,Nữ,Sản xuất,Công nhân
+E0282,Phạm Thị Phúc,Nam,Kho vận,Nhân viên kho
+E0057,Võ Ngọc Ly,Nữ,Sản xuất,Giám sát ca
+E0073,Hoàng Ngọc Phương,Nữ,Sản xuất,Giám sát ca
+E0021,Đặng Hữu Thắng,Nam,Sản xuất,Giám sát ca
+E0049,Phạm Ngọc Hùng,Nam,Kiểm định chất lượng,Nhân viên QC
+E0024,Hồ Hữu Thắng,Nam,Sản xuất,Công nhân
+E0092,Bùi Văn Hùng,Nam,Bảo trì,Thợ máy
+E0011,Phan Thanh Tuấn,Nam,Kiểm định chất lượng,Nhân viên QC
+E0133,Hoàng Ngọc Tuấn,Nam,Bảo trì,Thợ máy
+E0086,Trần Hoàng Cường,Nam,Kho vận,Nhân viên kho
+E0182,Nguyễn Hoàng Hải,Nam,Kiểm định chất lượng,Nhân viên QC
+E0217,Đỗ Hữu Cường,Nam,Sản xuất,Tổ trưởng chuyền
+E0034,Lê Ngọc Thắng,Nam,Sản xuất,Giám sát ca
+E0169,Hoàng Thị Phương,Nữ,Bảo trì,Kỹ thuật viên
+E0287,Nguyễn Đức Hạnh,Nữ,Sản xuất,Tổ trưởng chuyền
+E0300,Hồ Ngọc Phương,Nữ,Hành chính,Kế toán
+E0178,Phạm Văn Cường,Nam,Kho vận,Lái xe nâng
+E0140,Võ Ngọc Cường,Nam,Sản xuất,Công nhân
+E0068,Huỳnh Hoàng Long,Nam,Kho vận,Nhân viên kho
+E0010,Huỳnh Thị Quỳnh,Nữ,Bảo trì,Kỹ thuật viên
+E0297,Huỳnh Ngọc Long,Nam,Kiểm định chất lượng,Nhân viên QC
+E0050,Võ Thanh Hạnh,Nữ,Bảo trì,Kỹ thuật viên
+E0041,Bùi Văn Sơn,Nam,Kiểm định chất lượng,Chuyên viên QC
+E0072,Hoàng Đức Hải,Nam,Kho vận,Nhân viên kho
+E0147,Bùi Thanh Nam,Nam,Kiểm định chất lượng,Nhân viên QC
+E0067,Trần Đức Sơn,Nam,Kho vận,Lái xe nâng
+E0111,Đặng Hoàng Đạt,Nam,Bảo trì,Kỹ thuật viên
+E0265,Đặng Ngọc Anh,Nam,Hành chính,Kế toán
+E0259,Đặng Hoàng Mai,Nữ,Kiểm định chất lượng,Nhân viên QC
+E0069,Vũ Thị Ngọc,Nữ,Sản xuất,Công nhân
+E0078,Đỗ Văn Mai,Nữ,Kiểm định chất lượng,Chuyên viên QC
+E0180,Trần Đức Khánh,Nam,Sản xuất,Tổ trưởng chuyền
+E0246,Trần Ngọc Long,Nam,Kho vận,Lái xe nâng
