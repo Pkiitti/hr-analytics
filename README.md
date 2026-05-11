@@ -16,11 +16,11 @@ Trong quá trình phân tích, các insight rút ra được là:
 - Theo Dõi KPI Tổng Quan: Hiển thị nhanh Tổng số nhân viên đang còn làm, Số lượng tuyển mới, Số lượng nghỉ việc và Tỷ lệ nghỉ việc và lương trung bình.
 - Phân Tích Theo Thời Gian: Các biểu đồ xu hướng theo dõi quá trình tuyển dụng và nghỉ việc qua từng năm, giúp phát hiện các giai đoạn biến động mạnh.
 - Phân Tích Nguyên Nhân: Vấn đề thu nhập, cơ hội nghề nghiệp, áp lực là top 3 lý do khiến nhân viên nghỉ việc tại công ty.
-- Phân Bổ Theo Phòng Ban: [Đánh giá chi tiết tình hình nhân sự tại Sản xuất, Kho vận, Kiểm định chất lượng, Bảo trì và Hành chính]. Phòng ban Sản xuất với số tuyển dụng cao nhất
-- với 153 lượt tuyển và 35 lượt nghỉ việc trong 5 năm (2021 đến 2025) với lý do chủ yếu là vấn đề thu nhập. Phòng ban Kiểm định chất lượng với số tuyển dụng là 52 và nghỉ việc là
-- 11 người trong 5 năm, lý do lớn nhất là do cơ hội nghề nghiệp của họ. Phòng ban Kho vận với số tuyển là 33 người và nghỉ việc là 4 người với lý do trải đều ở áp lực công việc
-- và cơ hội nghề nghiệp. Phòng ban Hành chính với số tuyển là 19 và số nghỉ việc là 4, lý do chủ yếu tới từ thu nhập. Phòng ban Bảo trì với số tuyển là 43, số nghỉ là 6, với
-- lý do chủ yếu đến từ chuyển nơi ở và cơ hội nghề nghiệp
+- Phân Bổ Theo Phòng Ban:  Phòng ban Sản xuất với số tuyển dụng cao nhất với 153 lượt tuyển và 35 lượt nghỉ việc trong 5 năm (2021 đến 2025) với lý do chủ yếu là vấn đề thu nhập.
+- Phòng ban Kiểm định chất lượng với số tuyển dụng là 52 và nghỉ việc là 11 người trong 5 năm, lý do lớn nhất là do cơ hội nghề nghiệp của họ.
+- Phòng ban Kho vận với số tuyển là 33 người và nghỉ việc là 4 người với lý do trải đều ở áp lực công việc và cơ hội nghề nghiệp.
+- Phòng ban Hành chính với số tuyển là 19 và số nghỉ việc là 4, lý do chủ yếu tới từ thu nhập.
+- Phòng ban Bảo trì với số tuyển là 43, số nghỉ là 6, với lý do chủ yếu đến từ chuyển nơi ở và cơ hội nghề nghiệp
 
 ## 4. Cấu Trúc Mô Hình Dữ Liệu
 Dự án sử dụng mô hình dữ liệu chuẩn hóa (Star Schema) với 1 bảng Danh mục và 2 bảng Sự kiện:
